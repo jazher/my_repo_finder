@@ -1,0 +1,10 @@
+Información coordinada by Jazher.
+
+Considerar realizar diversos commit agregando paso a paso. 
+Esto quiere decir que debes agregar los cambios que requieres modificar.
+Por ejemplo si se modifica el archivo .js del path static/js entonces
+idealmente agregar con el comando git add el archivo especifico
+y a este realizar un commit detallando el cambio a realizar o en su defecto
+la reparación del codigo o modificación del archivo. Esto se debe
+realizar con git commit -m "Mensaje descriptivo del cambio".
+Y su posterior actualización del repositorio con git push nombreRaiz nombreArchivo.nombreExtensión.
