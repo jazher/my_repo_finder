@@ -8,3 +8,20 @@ y a este realizar un commit detallando el cambio a realizar o en su defecto
 la reparación del codigo o modificación del archivo. Esto se debe
 realizar con git commit -m "Mensaje descriptivo del cambio".
 Y su posterior actualización del repositorio con git push nombreRaiz nombreArchivo.nombreExtensión.
+
+Idealmente se debe gestionar las modificaciones del proyecto con 'raices'
+o branchs para el repositorio, lo cual nos permitirá trabajar de forma paralela
+y de esta manera tener una restauración del repositorio y no ver demasiadas alteraciones
+Lo ideal es usar en el codigo o nombre de la raiz generada una sigla o directamente
+un control de versión, ya sea con una reparación o en su defecto un nombre descriptivo
+de lo que se esta realizando en esta rama nueva o new branchs.
+
+git checkout -b nameBranch
+
+Ese es el comando para generar una nueva raiz.
+
+Con esto podremos generar un control de versiones.
+
+Idealmente ya no es utilizado el sistema como master sino como main.
+
+Y para generar el repositorio se puede usar git init.
