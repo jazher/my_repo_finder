@@ -1,0 +1,51 @@
+
+/* Estilos del index */
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container-form-login{
+    background-color: #2BFF2E;
+    width: 90%;
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.titulo-login{
+    font-size: 30px;
+    text-align: center;
+}
+
+.field-form-login{
+    border: none;
+}
+
+.label-login{
+    margin-bottom: 10px;
+}
+
+.input-login{
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border-radius: 10px;
+}
+
+.btn-enviar{
+    width: 100%;
+    padding: 10px;
+    background-color: #2B45FF;
+    border: none;
+    border-radius: 15px;
+    font-size: 15px;
+    color: #F3F3F3;
+    margin: 10px auto;
+}
+
+.btn-enviar:hover{
+    background-color: #182EC8;
+    transition: 0.4s;
+}
