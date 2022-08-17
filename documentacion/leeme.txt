@@ -25,3 +25,8 @@ Con esto podremos generar un control de versiones.
 Idealmente ya no es utilizado el sistema como master sino como main.
 
 Y para generar el repositorio se puede usar git init.
+
+para determinar la posicion de la raiz en la que te encuentras puedes usar el comando
+git branch
+
+este te permitirá ver el branch con la posición actual en la que te encuentras.
