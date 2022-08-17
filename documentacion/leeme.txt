@@ -30,3 +30,17 @@ para determinar la posicion de la raiz en la que te encuentras puedes usar el co
 git branch
 
 este te permitirá ver el branch con la posición actual en la que te encuentras.
+
+Para más Información puedes consultar la documentación oficial de git:
+
+https://git-scm.com/docs
+
+Y puedes revisar este curso:
+
+https://www.youtube.com/watch?v=VdGzPZ31ts8
+
+Recomendación: Te será de mucha utilidad generar alias para
+mejorar tu productividad o en su defecto mejorar las capacidades
+de timing. git config --global alias.las "log --oneline --decorate"
+por ejemplo. De todas formas puedes modificar este documento
+en caso de algun error de tipeo o de sentencia. 
