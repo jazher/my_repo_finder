@@ -1,0 +1,4 @@
+https://www.bleepingcomputer.com/news/security/air-gapped-systems-leak-data-via-sata-cable-wifi-antennas/
+https://www.researchgate.net/publication/332220078_Air_Gap_Penetration
+https://github.com/jazher/my_repo_finder/tree/ER00A/media/img
+https://arxiv.org/pdf/2207.07413.pdf
